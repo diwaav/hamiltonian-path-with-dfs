@@ -1,4 +1,4 @@
-# Assignment 4 - The Perambulations of Denver Long
+# hamiltonian path [CSE 13S]
 This program prints out the shortest Hamiltonian path (visits each location only once).
 The input must be a graph written in the order:
 ```
